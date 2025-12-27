@@ -3,7 +3,7 @@ A full-stack AI Customer Support Agent capable of handling natural language quer
 Tech Stack:
 Frontend: React (Vite), Tailwind CSS, Lucide React
 Backend: Node.js, Express.js
-Database: PostgreSQL (NeonDB / Local)
+Database: PostgreSQL (Supabase)
 AI Engine: Google Gemini 2.5 Flash
 🚀 How to Run Locally
 Prerequisites
