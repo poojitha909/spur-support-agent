@@ -1,0 +1,10 @@
+# Dependencies
+node_modules/
+/client/node_modules
+/backend/node_modules
+
+# Environment Variables (Secrets)
+.env
+.DS_Store
+dist/
+build/

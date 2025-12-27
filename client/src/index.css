@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add a background color to BODY to prove it works */
+body {
+  background-color: #f0f9ff; 
+}
