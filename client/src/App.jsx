@@ -5,7 +5,9 @@ import { v4 as uuidv4 } from 'uuid';
 
 
 // Ensure your backend is running on this port
-const API_URL = 'http://localhost:3000/api';
+// const API_URL = 'http://localhost:3000/api';
+
+const API_URL = 'https://spur-support-agent.onrender.com'
 
 function App() {
   const [messages, setMessages] = useState([]);
